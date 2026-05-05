@@ -3,12 +3,10 @@ import { Menu, X } from "lucide-react";
 import BoilerRoomLogo from "./BoilerRoomLogo";
 
 const links = [
-  { label: "Summary", href: "#summary" },
-  { label: "Safety Topics", href: "#topics" },
-  { label: "Approach", href: "#approach" },
-  { label: "Script Sample", href: "#narration" },
-  { label: "Timeline", href: "#timeline" },
-  { label: "Investment", href: "#investment" },
+  { label: "Features", href: "#features" },
+  { label: "Packages", href: "#packages" },
+  { label: "Industries", href: "#industries" },
+  { label: "Contact", href: "#contact" },
 ];
 
 export default function Nav() {
@@ -44,10 +42,10 @@ export default function Nav() {
         </ul>
 
         <a
-          href="#investment"
+          href="#packages"
           className="hidden md:block bg-red-600 hover:bg-red-500 text-white text-sm font-semibold px-4 py-2 rounded transition-colors"
         >
-          View Proposal
+          Explore Packages
         </a>
 
         <button

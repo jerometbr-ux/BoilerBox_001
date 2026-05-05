@@ -20,31 +20,28 @@ export default function Conclusion() {
           </div>
 
           <h2 className="text-4xl sm:text-5xl font-black text-white mb-6 leading-tight">
-            Protecting Your People
+            Learning Without Limits
             <br />
-            <span className="text-red-500">Through Compelling Safety</span>
-            <br />
-            Training
+            <span className="text-red-500">Anywhere, Anytime</span>
           </h2>
 
           <p className="text-gray-300 text-lg leading-relaxed mb-6">
-            This proposal gives your organisation a modern, engaging safety
-            video that helps employees truly understand, remember, and apply
-            critical safety behaviours in their daily work.
+            BoilerBox 360 transforms your training delivery by eliminating connectivity
+            barriers. Deploy comprehensive learning programs to your teams instantly,
+            whether they're underground, remote, or offline.
           </p>
           <p className="text-gray-400 leading-relaxed mb-10">
-            By combining real workplace footage with clear animated demonstrations,
-            the video makes complex procedures easy to follow — reducing incident
-            risk and reinforcing a culture of safety across your operations.
-            We look forward to collaborating with you to deliver a training
-            resource your workforce will actually watch, understand, and act on.
+            From mining operations to manufacturing floors, healthcare facilities to
+            construction sites — BoilerBox 360 empowers your organization with a
+            training solution that truly goes wherever your people do.
+            Let's build a culture of continuous learning and compliance.
           </p>
 
           <a
-            href="#investment"
+            href="#packages"
             className="inline-flex items-center gap-3 bg-red-600 hover:bg-red-500 text-white font-bold px-8 py-4 rounded-lg transition-all hover:shadow-lg hover:shadow-red-900/40 text-sm tracking-wide"
           >
-            Review Investment Proposal
+            Get Started Today
             <ArrowRight size={16} />
           </a>
         </div>
@@ -87,7 +84,7 @@ export default function Conclusion() {
           <div className="text-gray-600 text-xs text-center sm:text-right">
             154 Bram Fisher Drive, First Floor Polifin House, Randburg 2194
             <br />
-            Submitted: 20th April 2026 | Confidential
+            BoilerBox 360 | 2026 | www.boilerroom.co.za
           </div>
         </div>
       </div>
